@@ -40,7 +40,7 @@ int main()
 
 最长上升子序列
 
-![image-20250609194720470](../assets/image-20250609194720470.png)
+![image-20250609194720470](https://github.com/xuegao2005/Linear_DP/blob/main/image-20250609194720470.png)
 
 ```cpp
 #include <iostream>
