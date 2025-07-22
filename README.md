@@ -1,4 +1,4 @@
-![image-20250609182424326](../assets/image-20250609182424326.png)
+![image-20250609182424326](https://github.com/xuegao2005/Linear_DP/blob/main/image-20250609182424326.png)
 
 ```cpp
 #include <iostream>
